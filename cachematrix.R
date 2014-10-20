@@ -4,7 +4,7 @@
 # > mat$get() # Return the matrix
 # > cacheSolve(mat) # This is the inverse
 # > cacheSolve(mat) # One more time to check if the inverse matrix is from cache
-
+  
 
 # makeCacheMatrix: This function returns a list containing functions to:
 # 1. Set the value of a matrix
